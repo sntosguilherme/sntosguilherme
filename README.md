@@ -2,11 +2,15 @@
 
 ## About Me
 
-I'm a Computer Science student at UFPB with a strong interest in building systems that solve real-world problems. My journey in technology began with a deep curiosity about how things work under the hood, which led me to become an Electrical Technician at IFPB, where I had my first contact with logic and electronics. Since then, I've been drawn to Computer Science by its interdisciplinary nature, seeing technology as a powerful tool to drive innovation and make a positive social impact.
+I'm a Computer Science student at UFPB with a strong interest in building systems that solve real-world problems. My journey in technology began with a curiosity about how things work under the hood, which led me to become an Electrical Technician at IFPB, where I had my first contact with logic and electronics.
 
-Outside of tech, I really enjoy listening to music, watching movies, doing physical activities, and spending time barbecuing with the people I care about.
+I'm currently a Software Engineering Intern at LAVID/UFPB, developing front-end solutions for the Paraíba State Government using React and TypeScript.
 
-I am currently expanding my knowledge through personal projects, focusing on software engineering and automation. I am also part of the Automation Team at Cortechx, an academic league where we develop real-world projects.
+My studies focus on Software Engineering, Automation, and AI. I'm also a member of the Automation Team at CortechX, an academic league where we develop real-world projects.
+
+I'm drawn to Computer Science by its interdisciplinary nature and believe in technology's potential to drive innovation and create a positive social impact.
+
+Outside of tech, I enjoy listening to music, watching movies, staying physically active, and having barbecues with the people I care about.
 
 ## Main Technologies
 
@@ -44,13 +48,9 @@ I am currently expanding my knowledge through personal projects, focusing on sof
 
 ## Additional Technologies:
 
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-412991?logo=openai&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?logo=jupyter&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
